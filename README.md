@@ -8,7 +8,7 @@ The main focus of this project is to design a multi-layer motion planner with gl
 
 ## Mulit-layer Motion Planner
 
-Please refer to the [report](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/blob/main/media/Report.pdf), [presentation](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/blob/main/media/Presentation.pdf) or [video presentation](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/blob/main/media/Video%20Presentation.mp4) for an in-depth explanation of algorithms, experiments performed, and achieved results.
+Please refer to the [report](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/blob/main/media/Report.pdf), and [presentation](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/blob/main/media/Presentation.pdf) for an in-depth explanation of algorithms, experiments performed, and achieved results.
 
 The motion planning layer provides a plan to achieve a particular desired goal considering the current and predicted vehicle states. The desired goal could be anything like traversing a particular lane, avoiding a particular obstacle, or following another vehicle. The motion planner executes these planning considering the behavioral constraints in the environment, and provides an optimal solution to achieve the desired goal. The motion planner executes these goals by generating a set of trajectories using trajectory generating algorithms.
 
@@ -84,6 +84,15 @@ https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous
 
 
 https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/1c37f418-2aa6-477f-91a4-8cc6e0dfc1ac
+
+&nbsp;
+&nbsp;
+
+
+
+https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/ade7d37b-3dd4-4dc9-865d-8ae8b5434c5b
+
+
 
 &nbsp;
 &nbsp;
