@@ -34,12 +34,11 @@ The motion planning layer provides a plan to achieve a particular desired goal c
     5) Overtaking
     6) Obstacle avoidance
     
-  - An autonomous vehicle doing lane maneuvering with static obstacles
   
 <img width="471" alt="Screenshot 2023-05-27 at 7 43 18 PM" src="https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/c09e958b-8b71-4017-aa6c-00b3f07e23f3">
 
 &nbsp;
-  - An autonomous vehicle doing lane maneuvering with dynamic obstacles
+
 
 <img width="471" alt="Screenshot 2023-05-27 at 7 46 37 PM" src="https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/c5ecf63b-ee26-48e1-a59e-59139947d9fb">
 
